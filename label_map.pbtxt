@@ -1,5 +1,5 @@
 item {
-  id: 1
-  name: "bulls eye"
+  name: "bulls_eye"
+    id: 1
 }
 

@@ -26,7 +26,7 @@ FLAGS = flags.FLAGS
 
 
 def class_text_to_int(row_label):
-    if row_label == 'bulls eye':
+    if row_label == 'up arrow':
         return 1
     else:
         return None

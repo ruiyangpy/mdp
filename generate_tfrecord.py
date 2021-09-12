@@ -26,65 +26,65 @@ FLAGS = flags.FLAGS
 
 
 def class_text_to_int(row_label):
-    if row_label == 'image_id_1':
+    if row_label == 'id_1':
         return 1
-    elif row_label == 'image_id_2':
+    elif row_label == 'id_2':
         return 2
-    elif row_label == 'image_id_3':
+    elif row_label == 'id_3':
         return 3
-    elif row_label == 'image_id_4':
+    elif row_label == 'id_4':
         return 4
-    elif row_label == 'image_id_5':
+    elif row_label == 'id_5':
         return 5
-    elif row_label == 'image_id_6':
+    elif row_label == 'id_6':
         return 6
-    elif row_label == 'image_id_7':
+    elif row_label == 'id_7':
         return 7
-    elif row_label == 'image_id_8':
+    elif row_label == 'id_8':
         return 8
-    elif row_label == 'image_id_9':
+    elif row_label == 'id_9':
         return 9
-    elif row_label == 'image_id_10':
+    elif row_label == 'id_10':
         return 10
-    elif row_label == 'image_id_11':
+    elif row_label == 'id_11':
         return 11
-    elif row_label == 'image_id_12':
+    elif row_label == 'id_12':
         return 12
-    elif row_label == 'image_id_13':
+    elif row_label == 'id_13':
         return 13
-    elif row_label == 'image_id_14':
+    elif row_label == 'id_14':
         return 14
-    elif row_label == 'image_id_15':
+    elif row_label == 'id_15':
         return 15
-    elif row_label == 'image_id_16':
+    elif row_label == 'id_16':
         return 16
-    elif row_label == 'image_id_17':
+    elif row_label == 'id_17':
         return 17
-    elif row_label == 'image_id_18':
+    elif row_label == 'id_18':
         return 18
-    elif row_label == 'image_id_19':
+    elif row_label == 'id_19':
         return 19
-    elif row_label == 'image_id_20':
+    elif row_label == 'id_20':
         return 20
-    elif row_label == 'image_id_21':
+    elif row_label == 'id_21':
         return 21
-    elif row_label == 'image_id_22':
+    elif row_label == 'id_22':
         return 22
-    elif row_label == 'image_id_23':
+    elif row_label == 'id_23':
         return 23
-    elif row_label == 'image_id_24':
+    elif row_label == 'id_24':
         return 24
-    elif row_label == 'image_id_25':
+    elif row_label == 'id_25':
         return 25
-    elif row_label == 'image_id_26':
+    elif row_label == 'id_26':
         return 26
-    elif row_label == 'image_id_27':
+    elif row_label == 'id_27':
         return 27
-    elif row_label == 'image_id_28':
+    elif row_label == 'id_28':
         return 28
-    elif row_label == 'image_id_29':
+    elif row_label == 'id_29':
         return 29
-    elif row_label == 'image_id_30':
+    elif row_label == 'id_30':
         return 30
     elif row_label == 'bulls_eye':
         return 31

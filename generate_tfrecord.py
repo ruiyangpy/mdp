@@ -86,7 +86,7 @@ def class_text_to_int(row_label):
         return 29
     elif row_label == 'image_id_30':
         return 30
-    elif row_label == 'image_id_31':
+    elif row_label == 'bulls_eye':
         return 31
     else:
         return None

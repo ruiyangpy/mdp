@@ -1,130 +1,123 @@
 item {
   id: 1
-  name: "image_id_1"
+  name: "id_1"
 }
 item {
   id: 2
-  name: "image_id_2"
+  name: "id_2"
 }
 item {
   id: 3
-  name: "image_id_3"
+  name: "id_3"
 }
 item {
   id: 4
-  name: "image_id_4"
+  name: "id_4"
 }
-item {
-  id: 4
-  name: "image_id_4"
-}
+
 item {
   id: 5
-  name: "image_id_5"
+  name: "id_5"
 }
 item {
   id: 6
-  name: "image_id_6"
+  name: "id_6"
 }
 item {
   id: 7
-  name: "image_id_7"
+  name: "id_7"
 }
 item {
   id: 8
-  name: "image_id_8"
+  name: "id_8"
 }
 item {
   id: 9
-  name: "image_id_9"
+  name: "id_9"
 }
 item {
   id: 10
-  name: "image_id_10"
+  name: "id_10"
 }
 item {
   id: 11
-  name: "image_id_11"
+  name: "id_11"
 }
 item {
   id: 12
-  name: "image_id_12"
+  name: "id_12"
 }
 item {
   id: 13
-  name: "image_id_13"
+  name: "id_13"
 }
 item {
   id: 14
-  name: "image_id_14"
+  name: "id_14"
 }
 item {
   id: 15
-  name: "image_id_15"
+  name: "id_15"
 }
 item {
   id: 16
-  name: "image_id_16"
+  name: "id_16"
 }
 item {
   id: 17
-  name: "image_id_17"
+  name: "id_17"
 }
 item {
   id: 18
-  name: "image_id_18"
+  name: "id_18"
 }
 item {
   id: 19
-  name: "image_id_19"
+  name: "id_19"
 }
 item {
   id: 20
-  name: "image_id_20"
+  name: "id_20"
 }
 item {
   id: 21
-  name: "image_id_21"
+  name: "id_21"
 }
 item {
   id: 22
-  name: "image_id_22"
+  name: "id_22"
 }
 item {
   id: 23
-  name: "image_id_23"
+  name: "id_23"
 }
 item {
   id: 24
-  name: "image_id_24"
+  name: "id_24"
 }
 item {
   id: 25
-  name: "image_id_25"
+  name: "id_25"
 }
 item {
   id: 26
-  name: "image_id_26"
+  name: "id_26"
 }
 item {
   id: 27
-  name: "image_id_27"
-}
-item {
-  id: 27
-  name: "image_id_27"
+  name: "id_27"
 }
 item {
   id: 28
-  name: "image_id_28"
+  name: "id_28"
 }
 item {
   id: 29
-  name: "image_id_29"
+  name: "id_29"
 }
 item {
   id: 30
-  name: "image_id_30"
+  name: "id_30"
 }
 item {
   id: 31
